@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bob0817912
-- 👀 I’m interested in java and C++ create.
+- 👋 Hi, I’m kernel
+- 👀 I’m interested in python and C++ create.
 - 🌱 I’m currently learning python ,java,C;
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me wechat
