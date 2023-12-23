@@ -1,8 +1,8 @@
 - 👋 Hi, I’m kernel
 - 👀 I’m interested in python and C++ create.
-- 🌱 I’m currently learning python ,java,C;
+- 🌱 I’m currently learning Deep learning;
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me wechat
+- 📫 my e-mail conanben77@gmail.com
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bob0817912&show_icons=true&theme=radical)
 
