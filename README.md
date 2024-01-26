@@ -12,9 +12,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bob0817912/Bob0817912/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 👨‍🎓Undergraduate of HDU
-- 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
-- RMer
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bob0817912&show_icons=true&theme=radical)
 
