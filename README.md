@@ -3,8 +3,7 @@
 - 👀 I’m interested in python and C++ create.
 - 👨‍🎓Undergraduate of HDU
 - 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
-- RMer
-- 💞️ I’m looking to collaborate on 
+- RMer  
 - 📫 my e-mail conanben77@gmail.com
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/null-qwerty/null-qwerty/output/github-contribution-grid-snake-dark.svg">
