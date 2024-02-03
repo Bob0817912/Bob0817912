@@ -11,7 +11,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/null-qwerty/null-qwerty/output/github-contribution-grid-snake.svg">
 </picture>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bob0817912&show_icons=true&theme=radical)
+  [![hitori bocchi's GitHub stats](https://api-github-readme-stats.null-qwerty.top/api?username=Bob0817912&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Bob0817912/Bob0817912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
