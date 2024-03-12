@@ -12,6 +12,7 @@
 </picture>
 
   [![hitori bocchi's GitHub stats](https://api-github-readme-stats.null-qwerty.top/api?username=Bob0817912&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
   [![Top Langs](https://api-github-readme-stats.null-qwerty.top/api/top-langs/?username=Bob0817912&layout=compact&hide=javascript,html,css,php)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
