@@ -4,15 +4,13 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+profile+page!" alt="Typing SVG" /></a>
 </p>
-<p align="center">
-<img src="https://moe-counter-pi.vercel.app/get/@Bob0817912-github-profile" alt="Bob0817912-github-profile" />
-</p>
+
 
 ## About Me
 
 - 👨‍🎓 Undergraduate of Hangzhou Dianzi University(HDU), majoring in automatization
 - 👥 Member of vision group and embedded group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
-
+- 🕸️ open-harmony.top
 ## 🛠️ Technologies & Tools
 
 ![Static Badge](https://img.shields.io/badge/languages-grey?style=for-the-badge)
@@ -50,18 +48,17 @@ I'm learning computer vision and Embodied Intelligence.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width=400 src="https://api-github-readme-stats.null-qwerty.top/api?username=null-qwerty&show_icons=true&hide_border=true&theme=transparent" />
-<a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats-seven-rho.vercel.app?user=null-qwerty&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+<img width=400 src="https://api-github-readme-stats.null-qwerty.top/api?username=Bob0817912&show_icons=true&hide_border=true&theme=transparent" />
+<a href="https://git.io/streak-stats"><img width=400 src="https://github-readme-streak-stats-seven-rho.vercel.app?user=Bob0817912&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-<img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=null-qwerty&theme=github-compact&hide_border=true&area=true" />
+<img width=800 src="https://github-readme-activity-graph-dun.vercel.app/graph?username=Bob0817912&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ## 📫 How to reach me
 
 Feel free to contact me 😋
 
-[![Static Badge](https://img.shields.io/badge/github-%40null--qwerty-181717)](https://github.com/Bob0817912)
-[![Static Badge](https://img.shields.io/badge/email-null--qwerty%40outlook.com-8A4182)](mailto:conanben77@gmail.com)
-[![Static Badge](https://img.shields.io/badge/personal_site-https%3A%2F%2Fblog.null--qwerty.work-blue)](https://open-harmony.top)
+[![Static Badge](https://img.shields.io/badge/github-%40hitoribocchi-181717)](https://github.com/Bob0817912)
+[![Static Badge](https://img.shields.io/badge/email-conanben77%40gmail.com-8A4182)](mailto:conanben77@gmail.com)
 
