@@ -1,4 +1,4 @@
-
+[![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/yasirshahzad18/)
 # <Hello, World!👋 I'm hitori bocchi/>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 - 👨‍🎓 Undergraduate of Hangzhou Dianzi University(HDU), majoring in automatization
 - 👥 Member of vision group and embedded group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
-- 🕸️ open-harmony.top
+- 🕸️ [open-harmony.top](www.open-harmony.top)
 ## 🛠️ Technologies & Tools
 
 ![Static Badge](https://img.shields.io/badge/languages-grey?style=for-the-badge)
